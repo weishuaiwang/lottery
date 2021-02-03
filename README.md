@@ -80,3 +80,7 @@ debug($boolean = true)
 ```
 go($settings)
 ```
+
+# JS效果
+
+https://www.jq22.com/demo/appchoujiang201907212340/
